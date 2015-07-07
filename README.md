@@ -1,6 +1,8 @@
 express-dates-middleware
 =========
 
+[![Join the chat at https://gitter.im/mattpker/express-dates-middleware](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mattpker/express-dates-middleware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/mattpker/express-dates-middleware.svg)](https://travis-ci.org/mattpker/express-dates-middleware) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mattpker/express-dates-middleware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Express middleware for providing a common start date and end date.
