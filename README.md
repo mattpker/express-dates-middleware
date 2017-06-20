@@ -1,8 +1,5 @@
 express-dates-middleware
 =========
-
-[![Build Status](https://travis-ci.org/mattpker/express-dates-middleware.svg)](https://travis-ci.org/mattpker/express-dates-middleware) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mattpker/express-dates-middleware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 Express middleware for providing a common start date and end date.
 
 This module can be used as a middleware for express for providing common startDate and endDate parameters. This is helpful when creating an API that may need a start date or end date on some endpoints.
